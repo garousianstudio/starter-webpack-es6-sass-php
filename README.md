@@ -7,8 +7,8 @@ Front-end starter kit with tools for development:
 - php for templating and future CMS integration
 
 ## Requirements
-Apache web server (e.g. XAMPP, MAMP, ...) for serving php files
-Set webpackDevServer proxy target based on project folder
+- Apache web server (e.g. XAMPP, MAMP, ...) for serving php files
+- Set webpackDevServer proxy target based on project folder
 
 ## Usage
 ```
