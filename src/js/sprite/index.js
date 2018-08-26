@@ -1,0 +1,1 @@
+import aparat from 'svg/aparat.svg';

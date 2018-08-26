@@ -1,0 +1,1 @@
+<script src="<?=$config->buildPath->js?>?<?=$config->hash?>"></script>
