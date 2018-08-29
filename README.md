@@ -29,6 +29,10 @@ npm run build => use it for production
 npm run clean => clean previously generated build folder
 ```
 
+## Notes
+- This starter is using 'iransans' as its default font type. If you want to use that, uncomment importing `fonts` in `src/scss/base/_base.scss` file and add files to fonts folder `public/fonts`. To use 'iransans' font visit their [home page](http://fontiran.com)
+
+
 ## License
 MIT, see [LICENSE.md](https://github.com/garousianstudio/starter-webpack-es6-sass-php/blob/master/LICENSE) for details.
 
