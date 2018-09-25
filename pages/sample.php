@@ -17,7 +17,6 @@
 	</head>
 	<body>
 		<div class="page page-sample">
-			<h1>Sample Page</h1>
 			<?php include 'block/sample/sample.intro.php'; ?>
 		</div>
 

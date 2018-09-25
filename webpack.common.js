@@ -49,7 +49,6 @@ const config = {
 	  alias: {
 	    'js': path.resolve(__dirname, './src/js'),
 	    'scss': path.resolve(__dirname, './src/scss'),
-	    'node_modules': path.resolve(__dirname, './node_modules'),
 	    'svg': path.resolve(__dirname, './src/svg'),
 	  },
 	  extensions: ['.js', '.jsx', '.scss']

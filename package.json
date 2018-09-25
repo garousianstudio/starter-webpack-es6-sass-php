@@ -11,6 +11,7 @@
   "author": "Garousian Studio",
   "license": "ISC",
   "devDependencies": {
+    "autoprefixer": "^9.1.5",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
@@ -20,6 +21,7 @@
     "file-loader": "^1.1.11",
     "mini-css-extract-plugin": "^0.4.1",
     "node-sass": "^4.9.0",
+    "postcss-loader": "^3.0.0",
     "resolve-url-loader": "^2.3.0",
     "sass-loader": "^7.0.1",
     "style-loader": "^0.21.0",
@@ -31,6 +33,7 @@
   "dependencies": {
     "jquery": "^3.3.1",
     "svg-sprite-loader": "^3.8.0",
+    "svgxuse": "^1.2.6",
     "whatwg-fetch": "^2.0.4"
   }
 }

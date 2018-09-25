@@ -11,16 +11,28 @@ Front-end starter kit with tools for development:
 - Set webpackDevServer proxy target based on project folder
 
 ## Usage
+### Clone & Install
+First clone the project and install dependencies.
 ```
 git clone https://github.com/garousianstudio/starter-webpack-es6-sass-php.git
 cd starter-webpack-es6-sass-php
 
 # install dependencies
 npm install
+```
 
+### Development:
+By default project config is set to development mode. check `config.php` for more details. To work on source files run start task.
+```
 # start webpack dev server and open browser
 npm start
 ```
+### Build:
+For deploying the project or overviewing what has been done, set `isDev` in `config.php` to `false` and run build task.
+```
+npm run build
+```
+Compiled `js`, `css` and `sprite.svg` files are generated in `build` folder at the root.
 
 ## Tasks
 ```
